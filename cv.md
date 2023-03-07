@@ -21,10 +21,10 @@ I want to become a web-programmer. I think, my soft skills:
 will help me to get hard skills in RS school, and I will start working as a programmer in a year.
 
 **My education**
-1.Higher education: 
+1.**Higher education**: 
 economist; 
 lawer.
-2.Courses:
+2.**Courses**:
 *RRSchool: stage 0;
 *Stepik: Web-tehnologis - start; The equation; Scientific thinking;
 *CodeBasics: HTML, CSS.
